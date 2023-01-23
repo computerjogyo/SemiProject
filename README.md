@@ -12,7 +12,7 @@
 
 ### Skills & Tools
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
 ![ApacheMaven](https://img.shields.io/badge/ApacheMaven-c71A36.svg?&style=for-the-badge&logo=ApacheMaven&logoColor=white)
 
@@ -76,8 +76,7 @@
 
 
 ## 식당 상세보기 & 좋아요
-<p align="center"><img width="32%" alt="" src="https://user-images.githubusercontent.com/74584001/214004797-ae72a5bc-e6de-4fb0-84c4-991e8967dfb6.gif"><img width="32%" alt="" src="https://user-images.githubusercontent.com/74584001/214004873-743d2841-db55-4b54-b314-5b9354c34e6e.gif
-"><img width="32%" alt="" src="https://user-images.githubusercontent.com/74584001/214004954-56650e7a-e565-4a71-8e67-34110e03e9e5.gif"></p>
+<p align="center"><img width="32%" alt="" src="https://user-images.githubusercontent.com/74584001/214004797-ae72a5bc-e6de-4fb0-84c4-991e8967dfb6.gif"><img width="32%" alt="" src="https://user-images.githubusercontent.com/74584001/214021640-0a4de840-fdac-4052-89c8-80d9352588d3.gif"><img width="32%" alt="" src="https://user-images.githubusercontent.com/74584001/214004954-56650e7a-e565-4a71-8e67-34110e03e9e5.gif"></p>
 
 * 리뷰 페이지에서 식당 이름 클릭 시 식당 상세정보 페이지로 이동
 * 식당 위치, 상세정보, 작성된 리뷰 확인
