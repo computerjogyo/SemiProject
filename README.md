@@ -43,6 +43,14 @@
 * 김서윤 (Front-end) : 전체적 웹 디자인 및 퍼블리싱
 
 ## DEMO
+## 메인 화면
+<p align="center"><img width="100%" alt="" src="https://github.com/ddanddanChoonsik/SemiProject/assets/74584001/14e9974d-5136-4c64-a7f5-49602cf86c5e"></p>
+
+* Tilse 프레임워크를 사용하여 Header 와 Content로 나눔
+* Header : Menu, LoginBtn, LogoBtn
+* Content : Pages
+
+
 ## 메뉴 랜덤 추천
 <p align="center"><img width="50%" alt="" src="https://user-images.githubusercontent.com/74584001/213997316-161714a0-c289-421c-a781-9fe9a9a2787f.gif"><img width="50%" alt="" src="https://user-images.githubusercontent.com/74584001/213997810-2aa41a2f-9c68-4a24-99ec-f78d108462b1.gif"></p>
 
